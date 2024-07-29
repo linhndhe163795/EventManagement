@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\prn231_su24_project\\Project_PRN231\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{008AF8AF-ACE6-4E6A-858E-6C8548670DE3}|MyWebClient\\MyWebClient.csproj|d:\\prn231_su24_project\\project_prn231\\mywebclient\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{008AF8AF-ACE6-4E6A-858E-6C8548670DE3}|MyWebClient\\MyWebClient.csproj|solutionrelative:mywebclient\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{008AF8AF-ACE6-4E6A-858E-6C8548670DE3}|MyWebClient\\MyWebClient.csproj|d:\\prn231_su24_project\\project_prn231\\mywebclient\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{008AF8AF-ACE6-4E6A-858E-6C8548670DE3}|MyWebClient\\MyWebClient.csproj|solutionrelative:mywebclient\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{008AF8AF-ACE6-4E6A-858E-6C8548670DE3}|MyWebClient\\MyWebClient.csproj|d:\\prn231_su24_project\\project_prn231\\mywebclient\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{008AF8AF-ACE6-4E6A-858E-6C8548670DE3}|MyWebClient\\MyWebClient.csproj|solutionrelative:mywebclient\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A99143A-5CC8-410E-A46B-ADAF4DB3D577}|MyAPI\\MyAPI.csproj|d:\\prn231_su24_project\\project_prn231\\myapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A99143A-5CC8-410E-A46B-ADAF4DB3D577}|MyAPI\\MyAPI.csproj|solutionrelative:myapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{008AF8AF-ACE6-4E6A-858E-6C8548670DE3}|MyWebClient\\MyWebClient.csproj|d:\\prn231_su24_project\\project_prn231\\mywebclient\\dto\\user\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{008AF8AF-ACE6-4E6A-858E-6C8548670DE3}|MyWebClient\\MyWebClient.csproj|solutionrelative:mywebclient\\dto\\user\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{008AF8AF-ACE6-4E6A-858E-6C8548670DE3}|MyWebClient\\MyWebClient.csproj|d:\\prn231_su24_project\\project_prn231\\mywebclient\\views\\user\\userprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{008AF8AF-ACE6-4E6A-858E-6C8548670DE3}|MyWebClient\\MyWebClient.csproj|solutionrelative:mywebclient\\views\\user\\userprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{008AF8AF-ACE6-4E6A-858E-6C8548670DE3}|MyWebClient\\MyWebClient.csproj|d:\\prn231_su24_project\\project_prn231\\mywebclient\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{008AF8AF-ACE6-4E6A-858E-6C8548670DE3}|MyWebClient\\MyWebClient.csproj|solutionrelative:mywebclient\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 219,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\prn231_su24_project\\Project_PRN231\\MyWebClient\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyWebClient\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\prn231_su24_project\\Project_PRN231\\MyWebClient\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MyWebClient\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T03:46:27.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\prn231_su24_project\\Project_PRN231\\MyWebClient\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyWebClient\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\prn231_su24_project\\Project_PRN231\\MyWebClient\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MyWebClient\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T03:45:49.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserProfileDTO.cs",
+              "DocumentMoniker": "D:\\prn231_su24_project\\Project_PRN231\\MyWebClient\\DTO\\User\\UserProfileDTO.cs",
+              "RelativeDocumentMoniker": "MyWebClient\\DTO\\User\\UserProfileDTO.cs",
+              "ToolTip": "D:\\prn231_su24_project\\Project_PRN231\\MyWebClient\\DTO\\User\\UserProfileDTO.cs",
+              "RelativeToolTip": "MyWebClient\\DTO\\User\\UserProfileDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T03:44:38.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\prn231_su24_project\\Project_PRN231\\MyAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "MyAPI\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\prn231_su24_project\\Project_PRN231\\MyAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "MyAPI\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwB8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T03:44:09.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "D:\\prn231_su24_project\\Project_PRN231\\MyWebClient\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "MyWebClient\\Controllers\\EventController.cs",
+              "ToolTip": "D:\\prn231_su24_project\\Project_PRN231\\MyWebClient\\Controllers\\EventController.cs",
+              "RelativeToolTip": "MyWebClient\\Controllers\\EventController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:19:39.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\prn231_su24_project\\Project_PRN231\\MyWebClient\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "MyWebClient\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\prn231_su24_project\\Project_PRN231\\MyWebClient\\Controllers\\UserController.cs",
+              "RelativeToolTip": "MyWebClient\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAqwFsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:07:27.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserProfile.cshtml",
+              "DocumentMoniker": "D:\\prn231_su24_project\\Project_PRN231\\MyWebClient\\Views\\User\\UserProfile.cshtml",
+              "RelativeDocumentMoniker": "MyWebClient\\Views\\User\\UserProfile.cshtml",
+              "ToolTip": "D:\\prn231_su24_project\\Project_PRN231\\MyWebClient\\Views\\User\\UserProfile.cshtml",
+              "RelativeToolTip": "MyWebClient\\Views\\User\\UserProfile.cshtml",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAAAKgAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T03:34:59.193Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 190,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:43:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:46:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:51:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
